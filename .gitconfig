@@ -1,0 +1,3 @@
+# Only the name: the email should still come from the workspace's /etc/gitconfig.
+[user]
+	name = Luciano (dotfiles)
